@@ -1,4 +1,4 @@
-# Flask app with a background worker
+# Sample flask app with a background worker
 
 ## Setup
 ```
