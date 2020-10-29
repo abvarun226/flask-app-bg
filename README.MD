@@ -17,3 +17,6 @@ $ tail -f app.log
 $ python worker.py
 $ tail -f worker.log
 ```
+
+## Credits
+Miguel Grinberg's blog https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure
