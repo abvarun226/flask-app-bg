@@ -3,7 +3,7 @@
 ## Setup
 ```
 $ mkvirtualenv flask-app
-$ pip install flask gunicorn rq
+$ pip install -r requirements.txt
 ```
 
 ## Start the flask app
