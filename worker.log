@@ -1,0 +1,8 @@
+
+2020-10-29 17:25:57,012 : INFO : rq.worker : 4522802624 : 59379 : Warm shut down requested
+2020-10-29 17:25:58,834 : INFO : rq.worker : 4478713280 : 59946 : Worker rq:worker:a2bfcf98b6884f89a30cec4295058d21: started, version 1.5.2
+2020-10-29 17:25:58,834 : INFO : rq.worker : 4478713280 : 59946 : *** Listening on [32mmicroblog-tasks[39;49;00m...
+2020-10-29 17:26:10,017 : INFO : rq.worker : 4478713280 : 59946 : [32mmicroblog-tasks[39;49;00m: [34mapp.tasks.example(23)[39;49;00m (ce34fb2b-7e10-475a-bed6-efbed2c904e4)
+2020-10-29 17:26:33,215 : INFO : rq.worker : 4478713280 : 59958 : [32mmicroblog-tasks[39;49;00m: [34mJob OK[39;49;00m (ce34fb2b-7e10-475a-bed6-efbed2c904e4)
+2020-10-29 17:26:33,215 : INFO : rq.worker : 4478713280 : 59958 : Result is kept for 500 seconds
+2020-10-29 17:26:56,974 : INFO : rq.worker : 4478713280 : 59946 : Warm shut down requested
